@@ -1,0 +1,36 @@
+----Welcome ken to the AI Exam question generator!---- 
+
+You are in a university 
+You are in the 3rd grade 
+You have chosen the subject of chemistry 
+You have chosen the  advanced level 
+You have chosen to be tested on 2 questions 
+
+--------------------Start Your Test Below-------------------- 
+Question:1
+
+What are the main components of the Haber-Bosch process, and how is it used to synthesize ammonia? 
+Question answer:
+
+The Haber-Bosch process combines nitrogen and hydrogen at high temperature and pressure to synthesize ammonia, which is then used in fertilizers and other materials. It consists of three main components: the catalyst, the nitrogen source, and 
+
+ Students answer:hydrogen and sodium 
+About Your Question :.
+
+Your answer is incorrect. Sodium is not used in the Haber-Bosch process nor does it react with nitrogen. Hydrogen is used as the source of hydrogen atoms for the reaction. 
+------------------------------------------------------ 
+
+Question:2
+
+What is the pH of a solution that is 0.2 M in hydrochloric acid (HCl)? 
+Question answer:
+
+The pH of the 0.2 M HCl solution is 1.00. 
+
+ Students answer:base 
+About Your Question :
+
+Your answer is incorrect. The pH of a 0.2 M HCl solution is 0, not 1.00. 
+------------------------------------------------------ 
+
+-----Thank you for using this program!-----

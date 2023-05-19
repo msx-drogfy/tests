@@ -1,0 +1,71 @@
+----Welcome john g to the AI Exam question generator!---- 
+
+You are in a university 
+You are in the 4th grade 
+You have chosen the subject of math 
+You have chosen the  basic level 
+You have chosen to be tested on 5 questions 
+
+--------------------Start Your Test Below-------------------- 
+Question:1
+
+If a university student studied for 6 hours and read 8 books, how many hours did the student spend reading? 
+Question answer:
+
+8 hours 
+
+ Students answer:1 and a half 
+About Your Question :
+
+Your answer is incorrect. 1.5 and 8 hours are not comparable as they are measured in two different units; 1.5 is measured in units of a fraction of an hour, whereas 8 hours is measured in units of a full hour. 
+------------------------------------------------------ 
+
+Question:2
+
+If a university student wrote 12 research papers in their last semester and each paper was 7 pages long, how many pages did they write in total? 
+Question answer: they wrote 84 pages in total. 
+
+ Students answer:13  
+About Your Question :
+
+Your answer is incorrect. The comparison of 13 and 84 has nothing to do with how many pages they wrote in total. 
+------------------------------------------------------ 
+
+Question:3
+
+If the sum of two congruent angles is 180°, what is the measure of each angle? 
+Question answer:
+
+Each angle is 90°. 
+
+ Students answer:90 
+About Your Question :.
+
+Your answer is correct. 90° is the same no matter which angle is being referred to. 
+------------------------------------------------------ 
+
+Question:4
+
+The university student must calculate how many minutes are in 53.2 hours? 
+Question answer:
+
+3,192 minutes. 
+
+ Students answer:3192 
+About Your Question :
+
+Your answer is incorrect. 3192 is a number, not a measure of time. 
+------------------------------------------------------ 
+
+Question:5
+
+If a university student spends 5 hours studying for a math exam, and she studies for 3 hours more each day for the next three days, how many hours will she have studied in total for the exam when she is done? 
+Question answer: the total hours she has studied for the exam is 18 hours. 
+
+ Students answer:37 
+About Your Question :
+
+Your answer is incorrect, as 37 is not a number of hours, so it cannot be compared with the total number of hours she has studied for an exam. 
+------------------------------------------------------ 
+
+-----Thank you for using this program!-----
